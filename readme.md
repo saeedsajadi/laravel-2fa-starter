@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/stephenafamo/laravel-2fa-starter)
+
 # Laravel Two Factor Authentication starter
 
 This is a fresh laravel application with the default authentication modified to enforce two factor authentication.
